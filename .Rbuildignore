@@ -1,15 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-<<<<<<< HEAD
 ^lab08aSimpleRpackage\.Rcheck$
 ^lab08aSimpleRpackage.*\.tar\.gz$
 ^lab08aSimpleRpackage.*\.tgz$
-=======
-<<<<<<< HEAD
-^lab08aSimpleRpackage\.Rcheck$
-^lab08aSimpleRpackage.*\.tar\.gz$
-^lab08aSimpleRpackage.*\.tgz$
-=======
->>>>>>> 2e6a892c20f891910a9670cf6894a501c8b79989
->>>>>>> 7a2ee4e837036f8736ef84fba4b5625cf525ad9f
-^LICENSE\.md$
+
