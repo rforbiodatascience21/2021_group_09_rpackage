@@ -1,3 +1,15 @@
+#' Amino acid sequence from DNA sequence
+#'
+#' Creates a sequence of amino acids from a given DNA sequence.
+#'
+#' @param n string
+#'
+#' @return aa string
+#' @export
+#'
+#' @examples
+#' dna_to_aa(AAAATGTCGACGATGCATAGCTAGCTGATGCTACG)
+#' 
 # R/dna_codons_to_aa.R
 dna_codons_to_aa <- function(codons){
   std_code_table <- c("TTT" = "F", "TCT" = "S", "TAT" = "Y", "TGT" = "C",
@@ -16,6 +28,6 @@ dna_codons_to_aa <- function(codons){
                       "GTC" = "V", "GCC" = "A", "GAC" = "D", "GGC" = "G",
                       "GTA" = "V", "GCA" = "A", "GAA" = "E", "GGA" = "G",
                       "GTG" = "V", "GCG" = "A", "GAG" = "E", "GGG" = "G")
-  aa <- paste0(std_code_table[codons], collapse = "")
+  aa <- paste0(str_to_upper(std_code_table[codons]), collapse = "")
   return(aa)
 }
