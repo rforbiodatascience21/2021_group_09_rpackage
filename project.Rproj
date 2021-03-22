@@ -15,7 +15,5 @@ LaTeX: pdfLaTeX
 BuildType: Package
 PackageUseDevtools: Yes
 PackageInstallArgs: --no-multiarch --with-keep.source
-<<<<<<< HEAD
 PackageRoxygenize: rd,collate,namespace
-=======
->>>>>>> 2e6a892c20f891910a9670cf6894a501c8b79989
+
