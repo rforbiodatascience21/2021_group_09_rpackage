@@ -2,9 +2,9 @@
 #'
 #' Creates a n long sequence of random nucleotides.
 #'
-#' @param l integer
+#' @param n integer
 #'
-#' @return dna string
+#' @return dna string of n-length
 #' @export
 #'
 #' @examples

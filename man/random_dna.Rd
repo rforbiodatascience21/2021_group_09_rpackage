@@ -7,7 +7,7 @@
 random_dna(n)
 }
 \arguments{
-\item{l}{integer}
+\item{n}{integer}
 }
 \value{
 dna string
