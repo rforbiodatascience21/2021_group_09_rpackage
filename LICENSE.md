@@ -1,14 +1,6 @@
 # MIT License
 
-<<<<<<< HEAD
 Copyright (c) 2021 lab08aSimpleRpackage authors
-=======
-<<<<<<< HEAD
-Copyright (c) 2021 DNA_to_aa authors
-=======
-Copyright (c) 2021 Henrik S. Spiegelhauer
->>>>>>> 2e6a892c20f891910a9670cf6894a501c8b79989
->>>>>>> 7a2ee4e837036f8736ef84fba4b5625cf525ad9f
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

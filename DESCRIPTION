@@ -1,39 +1,15 @@
-Package: DNA_to_aa
+Package: lab08aSimpleRpackage
 Type: Package
-Title: modification of DNA information to get amino acids
+Title: Small DNA and RNA modifications
 Version: 0.1.0
-<<<<<<< HEAD
 Author: Group 9
 Maintainer: Group 9 <yourself@somewhere.net>
 Description: The package use simple functions to work with DNA and RNA.
-    Use four spaces when indenting paragraphs within the Description.
-=======
-Author: Ángela Miranda
-Maintainer: Ángela Miranda <angelams98@gmail.com>
-Description: This package collects four functions that helps to modify DNA, RNA,    
-    amino acids data.
-Depends:
-    tibble
-Imports:
-    dplyr
-    tidyr
-Suggests:
-    ggplot2
-Remotes:
-    r-lib/testthat
-biocViews:
-    Software
->>>>>>> 7a2ee4e837036f8736ef84fba4b5625cf525ad9f
-License: MIT + file LICENSE
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.1
-<<<<<<< HEAD
 Suggests: 
     knitr,
     rmarkdown,
     testthat (>= 3.0.0)
-VignetteBuilder: knitr
-Config/testthat/edition: 3
-=======
->>>>>>> 7a2ee4e837036f8736ef84fba4b5625cf525ad9f
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
