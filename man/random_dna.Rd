@@ -10,7 +10,7 @@ random_dna(n)
 \item{n}{integer}
 }
 \value{
-dna string
+dna string of n-length
 }
 \description{
 Creates a n long sequence of random nucleotides.
