@@ -1,6 +1,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+<<<<<<< HEAD
 ^lab08aSimpleRpackage\.Rcheck$
 ^lab08aSimpleRpackage.*\.tar\.gz$
 ^lab08aSimpleRpackage.*\.tgz$
+=======
+>>>>>>> 2e6a892c20f891910a9670cf6894a501c8b79989
 ^LICENSE\.md$

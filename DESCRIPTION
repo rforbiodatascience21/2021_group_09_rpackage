@@ -2,6 +2,7 @@ Package: DNA_to_aa
 Type: Package
 Title: modification of DNA information to get amino acids
 Version: 0.1.0
+<<<<<<< HEAD
 Author: Ángela Miranda
 Maintainer: Ángela Miranda <angelams98@gmail.com>
 Description: This package collects four functions that helps to modify DNA, RNA,    
@@ -17,6 +18,12 @@ Remotes:
     r-lib/testthat
 biocViews:
     Software
+=======
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+>>>>>>> 2e6a892c20f891910a9670cf6894a501c8b79989
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
